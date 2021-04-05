@@ -1,0 +1,41 @@
+/* please do not add styles */
+
+@import url('https://fonts.googleapis.com/css?family=Cutive+Mono');
+
+.hSnake18-border {
+    border: 0px #fff solid;
+}
+.hSnake18-font {
+   font-family: 'Cutive Mono', monospace;
+}
+.hSnake18-playing-area {
+    background-color: #fff;
+    background-image: url();
+}
+.hSnake18-info-area {
+    padding: 0.8em 1em;
+    background-color: #DAEDE2;
+    background-image: url();
+    font-size: 0.8em;
+    color: #575757;
+}
+.hSnake18-break-area {
+    background-color: #333745;
+    font-size: 1.1em;
+    color: #fff;
+}
+.hSnake18-flying-points {
+    color: #333745;
+}
+.hSnake18-snake-head {
+    background-color: #333745;
+}
+.hSnake18-snake-part {
+    background-color: #77C4D3;
+}
+.hSnake18-snake-feed {
+    background-color: #EA2E49;
+}
+.hSnake18-snake-feed-special {
+    background-color: #F6F792;
+}
